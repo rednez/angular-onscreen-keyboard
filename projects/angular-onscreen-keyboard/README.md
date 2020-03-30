@@ -1,6 +1,8 @@
 # Angular Onscreen Keyboard Library
 Onscreen Keyboard for Angular 9.1+
 
+See [Demo](https://rednez.github.io/angular-onscreen-keyboard)
+
 ## Build
 
 Run `ng build angular-onscreen-keyboard` to build the project. The build artifacts will be stored in the `dist/` directory.
