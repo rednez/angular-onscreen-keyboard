@@ -1,6 +1,8 @@
 # Angular Onscreen Keyboard
 Onscreen Keyboard for Angular 9.1+
 
+[![npm version](https://badge.fury.io/js/%40rednez%2Fangular-onscreen-keyboard.svg)](https://badge.fury.io/js/%40rednez%2Fangular-onscreen-keyboard)
+
 ## Folders structure
 
 - projects/**angular-onscreen-keyboard** - source files of the library.
