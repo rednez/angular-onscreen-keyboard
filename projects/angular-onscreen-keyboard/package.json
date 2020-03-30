@@ -1,0 +1,18 @@
+{
+  "name": "@rednez/angular-onscreen-keyboard",
+  "version": "1.0.0",
+  "author": "Vasyl Efimenko <rednez@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rednez/angular-onscreen-keyboard.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.1.0",
+    "@angular/core": "^9.1.0",
+    "@angular/animations": "~9.1.0",
+    "@angular/cdk": "^9.2.0",
+    "@angular/material": "^9.2.0",
+    "tslib": "^1.10.0"
+  }
+}

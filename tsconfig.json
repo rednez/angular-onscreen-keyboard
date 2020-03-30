@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@rednez/angular-onscreen-keyboard": [
+        "dist/angular-onscreen-keyboard/angular-onscreen-keyboard",
+        "dist/angular-onscreen-keyboard"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
